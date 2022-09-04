@@ -53,3 +53,17 @@ URL do curso -> [Acessibilidade Web - Parte 2 - Componentes Acessíveis com um P
 
 ### 05 - Fechando com ESC e Click
 * Fechar a janela quando o usuário apertar ***ESC***.
+
+***
+
+## 03 - Carousel Acessível &#x1F516;
+* Melhorar a acessibilidade do carousel.
+
+### 01 - Sobre o Carousel
+* Adicionar uma descrição sobre o que é o Carousel.
+
+### 02 - Js do Carousel
+* Adicionar descrição para cada item do carousel.
+
+### 03 - Slide Atual
+* Indicar qual noticia é o slide atual.
