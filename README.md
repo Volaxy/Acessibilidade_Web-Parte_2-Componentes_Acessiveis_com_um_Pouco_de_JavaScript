@@ -67,3 +67,21 @@ URL do curso -> [Acessibilidade Web - Parte 2 - Componentes Acessíveis com um P
 
 ### 03 - Slide Atual
 * Indicar qual noticia é o slide atual.
+
+***
+
+## 04 - Melhorando o Formulário &#x1F516;
+* Adicionar uma descrição no formulário para se entender o contexto.
+* Criar uma mensagem de erro acessível.
+
+### 01 - Melhorando o Formulário
+* Adicionar uma legenda para o formulário
+
+### 02 - Checkbox com Focus
+* Ajustar o checkbox do formulário.
+* Criar uma checkbox personalizada.
+
+### 03 - Personalizando Erros
+* Associar os labels com os inputs.
+* Criar uma mensagem de erro personalizada.
+* Criar um ícone para caso o campo esteja errado.
