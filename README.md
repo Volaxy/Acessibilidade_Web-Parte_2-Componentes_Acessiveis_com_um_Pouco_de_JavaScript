@@ -18,6 +18,11 @@ URL do curso -> [Acessibilidade Web - Parte 2 - Componentes Acessíveis com um P
 * [W3C - dialg/modal](https://www.w3.org/WAI/ARIA/apg/#dialog_modal) - Modal de diálogo de acordo com a W3C.
 * [Repositório Inert - WICG](https://www.w3.org/WAI/ARIA/apg/example-index/dialog-modal/dialog.html) - Repositório do **WICG** sobre a biblioteca **Inert**.
 * [Repositório Inert - Google Chrome](https://github.com/GoogleChrome/inert-polyfill) - Biblioteca JS da **Google** que contem o **inert**.
+* [Mail Check](http://github.com/mailcheck/mailcheck) - Repositório da biblioteca do mailcheck, que verifica proximidade de palavras escrevidas pelo usuário.
+* [A11Y Style Guide](https://a11y-style-guide.com/style-guide/) - Referência de acessibilidade com dicas de acessibilidade em algums componentes como menus, cards, formulários, etc.
+* [11 dicas e boas práticas para deixar seu site acessível](http://blog.handtalk.me/acessibilidade-ranking-google/) - Dicas de como tornar o site mais acessível.
+* [Como fazer um menu Dropdown Acessível](https://blog.elo7.dev/um-pouco-sobre-css-js-a11y/) - Dicas de como tornar o dropdown acessível.
+* [Atalhos de teclado](https://webaim.org/techniques/keyboard/#testing) - Atalhos do teclado para testar se o site está acessível.
 
 ## 01 - Melhorias Iniciais &#x1F516;
 * Esconder elementos visualmente mas mostrar no leitor de tela que aquele elemento está ali.
@@ -85,3 +90,15 @@ URL do curso -> [Acessibilidade Web - Parte 2 - Componentes Acessíveis com um P
 * Associar os labels com os inputs.
 * Criar uma mensagem de erro personalizada.
 * Criar um ícone para caso o campo esteja errado.
+
+***
+
+## 05 - Formulário Acessível &#x1F516;
+* Identificar proximidade de palavras com o input do usuário.
+
+### 01 - Sugestão de Email
+* Mostrar o que o usuário errou no input.
+* Importar a biblioteca do **mailcheck**.
+
+### 02 - Colocando Erro no HTML
+* Criar o texto de sugestão abaixo do campo de input.
